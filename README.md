@@ -1,6 +1,6 @@
 # TIILDE — Privacy Policy
 
-Effective date: [date you publish]
+Effective date: July 10th 2026
 
 TIILDE does not collect, store, transmit, or share any personal data. There are no accounts, no analytics, no advertising, no tracking, and no third-party services of any kind in the app.
 
